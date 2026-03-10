@@ -1,0 +1,8 @@
+.btn-xs {
+  padding: 2px 8px;
+  font-size: 0.75rem;
+}
+
+.table td, .table th {
+  vertical-align: middle;
+}
